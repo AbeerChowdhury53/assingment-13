@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://fir-auth-cb030.firebaseapp.com).
 
-## Available Scripts
+#This is an mobile cover shop 
+#Admin can see all the fetuer and other uase can only see product 
+
 
 In the project directory, you can run:
 

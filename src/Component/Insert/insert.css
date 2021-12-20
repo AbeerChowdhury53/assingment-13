@@ -1,0 +1,17 @@
+.hook-from{
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .hook-from input {
+        width: 30%;
+        margin: 10px;
+    }
+
+    .hook-from  textarea {
+        width: 30%;
+        margin: 10px;
+    }

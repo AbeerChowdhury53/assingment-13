@@ -1,0 +1,21 @@
+
+
+.order-div{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.hook-from-div{
+    /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    }
+
+    .hook-from-div input,textarea {
+        width: 80%;
+        margin: 10px;
+        
+    }
